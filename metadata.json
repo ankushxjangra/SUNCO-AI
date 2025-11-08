@@ -1,0 +1,7 @@
+{
+  "name": "SUNCO AI",
+  "description": "A real-time AI chatbot with a premium modern UI/UX, featuring text and voice chat, image generation, and file analysis powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
